@@ -1,0 +1,5 @@
+resolver: lts-13.19
+packages:
+- '.'
+- location: '../hjugement'
+  extra-dep: true
